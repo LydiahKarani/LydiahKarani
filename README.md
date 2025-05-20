@@ -2,7 +2,7 @@
 <h3 align="center">Data & Software Engineer | Analytics Enthusiast | Problem Solver</h3>
 
 
-I thrive at the intersection of **data, analytics, and software engineering**, building scalable solutions that transform raw data into actionable insights. Whether it's designing efficient databases, crafting robust machine learning models, or developing software that powers intelligent decision-making, I'm always up for a challenge.  
+I thrive at the intersection of **data, analytics, and software engineering**, building scalable solutions that transform raw data into actionable insights. Whether it's designing efficient databases, crafting robust machine learning models, or developing software that powers intelligent decision-making, I'm always up for a challenge.,  
 
 
 <h3 align="left">Languages and Tools:</h3>
